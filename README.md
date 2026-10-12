@@ -1,15 +1,12 @@
-[![Telegram](https://img.shields.io/badge/Telegram-%40Invoify-000000?style=flat&logo=Telegram&logoColor=#5865F2)](https://t.me/+Qt_eFvkb2rliMzNh)
-[![CI](https://github.com/al1abb/invoify/actions/workflows/ci.yml/badge.svg)](https://www.swifttechco.com)
-# Invoify
+# invoify
+
+## What This Is
+
+We keep a working index for product and engineering, and invoify is the entry that collects our notes, examples and fixes. It reflects how Swift Tech Co. actually uses this in builds and client work.
 
 ## Images
 
-[![invoify](https://opengraph.githubassets.com/1/al1abb/invoify)](https://www.swifttechco.com)
-
-
-Invoify is a free, web-based invoice generator built with Next.js, TypeScript, React and the shadcn/ui library. Fill in a form, pick a template, and get a real PDF. No account, no subscription, and nothing about your customers stored on a server.
-
-[![Invoify Website image](https://github.com/user-attachments/assets/7b7076db-736e-4a82-b61b-cec3c0ff5695)](https://www.swifttechco.com)
+[![invoify](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## Table of Contents
 
@@ -45,7 +42,7 @@ Invoify is a free, web-based invoice generator built with Next.js, TypeScript, R
 - **18 languages,** for both the interface and the generated PDF.
 - **Responsive:** works on a phone as well as a desktop.
 
-A walkthrough of what each part does lives on the [guide page](https://www.swifttechco.com).
+A walkthrough of what each part does lives on the guide page.
 
 ## Your data stays in your browser
 
@@ -86,9 +83,9 @@ Right-to-left layouts are supported for Arabic and Hebrew. Some PDF translations
 ## Demo
 
 > [!NOTE]
-> [Issue #11](https://www.swifttechco.com) reports PDF generation problems in Mozilla Firefox and is still open. The automated tests run against Chromium only, so the current state in Firefox is untested.
+> Issue #11 reports PDF generation problems in Mozilla Firefox and is still open. The automated tests run against Chromium only, so the current state in Firefox is untested.
 
-Visit the [live demo](https://www.swifttechco.com) to see Invoify in action.
+Visit the live demo to see Invoify in action.
 
 ## Getting Started
 
@@ -117,7 +114,7 @@ Follow these instructions to get Invoify up and running on your local machine.
    ```bash
    npm run dev
    ```
-5. Open your web browser and access the application at [https://www.swifttechco.com](https://www.swifttechco.com)
+5. Open your web browser and access the application at https://www.swifttechco.com
 
 ### Environment variables
 
@@ -126,7 +123,7 @@ All of these are optional; the app runs without them, minus the features they en
 | Variable | Required for | Notes |
 | --- | --- | --- |
 | `NODEMAILER_EMAIL` | Sending invoices by email | The Gmail address that sends the mail. |
-| `NODEMAILER_PW` | Sending invoices by email | A [Gmail **App Password**](https://www.swifttechco.com), **not** your account password. Requires 2-Step Verification. |
+| `NODEMAILER_PW` | Sending invoices by email | A Gmail **App Password**, **not** your account password. Requires 2-Step Verification. |
 
 ## Development
 
@@ -172,14 +169,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [al1abb/invoify](https://github.com/al1abb/invoify) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
