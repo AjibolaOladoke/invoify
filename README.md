@@ -6,7 +6,7 @@ We keep a working index for product and engineering, and invoify is the entry th
 
 ## Images
 
-[![invoify](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![invoify](images/preview.png)](https://github.com/Swift-Tech-Co/invoify)
 
 ## Table of Contents
 
@@ -100,7 +100,7 @@ Follow these instructions to get Invoify up and running on your local machine.
 1. Clone the repository:
 
    ```bash
-   git clone https://www.swifttechco.com
+   git clone https://github.com/Swift-Tech-Co/invoify
    cd invoify
    ```
 2. Install dependencies
@@ -114,7 +114,7 @@ Follow these instructions to get Invoify up and running on your local machine.
    ```bash
    npm run dev
    ```
-5. Open your web browser and access the application at https://www.swifttechco.com
+5. Open your web browser and access the application at https://github.com/Swift-Tech-Co/invoify
 
 ### Environment variables
 
@@ -173,13 +173,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/invoify
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [al1abb/invoify](https://github.com/al1abb/invoify) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
